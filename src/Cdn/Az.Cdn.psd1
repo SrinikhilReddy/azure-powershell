@@ -30,7 +30,7 @@ CompanyName = 'Microsoft Corporation'
 Copyright = 'Microsoft Corporation. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Microsoft Azure PowerShell: Cdn cmdlets'
+Description = 'Az.Cdn module includes cmdlets for both Azure Front Door Standard/Premium and Azure CDN. Cmdlets with AzFrontDoorCdn are for Azure Front Door Standard/Premium, while cmdlets with AzCdn are for Azure CDN.'
 
 # Minimum version of the PowerShell engine required by this module
 PowerShellVersion = '5.1'
